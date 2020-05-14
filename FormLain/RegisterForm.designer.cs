@@ -158,6 +158,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "RegisterForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Daftar WikiPenyakit";
             this.ResumeLayout(false);
             this.PerformLayout();

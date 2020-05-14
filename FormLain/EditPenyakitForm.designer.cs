@@ -131,6 +131,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "EditPenyakitForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Info Penyakit";
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
